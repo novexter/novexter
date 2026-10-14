@@ -19,13 +19,7 @@ I turn small, concrete problems into software people can use.
 
 ### [Weight Tracker](https://github.com/novexter/weight-tracker)
 
-A lightweight macOS desktop app that reads measurements from a Bluetooth body composition scale and keeps them on your computer.
-
-- **Built with:** Go, TypeScript, Wails, Bluetooth Low Energy
-- **Designed for:** quick weigh-ins, clear trends, and locally stored history
-- **Status:** MVP; currently supports the Mi Body Composition Scale 2
-
-<a href="https://github.com/novexter/weight-tracker"><img src="https://raw.githubusercontent.com/novexter/weight-tracker/main/docs/images/weight-tracker.png" alt="Weight Tracker dashboard" width="720"></a>
+macOS app for tracking weight and body composition from Bluetooth scale readings. Built with Go, TypeScript, and Wails.
 
 ## What I’m exploring
 
